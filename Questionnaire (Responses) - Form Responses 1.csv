@@ -1,0 +1,27 @@
+Timestamp,A research study was conducted in a small town in Switzerland with 35 participants and it was found that 80% of the participants prefer to stay in joint families. The researchers concluded that joint families are a preferable concept in this town. Would you accept this research?,"I am tossing a fair coin 4 times. The first 3 tosses result in Tails, Heads, Heads, respectively. What do you expect the next toss to be? (Write either H or T.)","I am tossing a fair coin 4 times. The first 3 tosses result in Tails, Tails, Tails, respectively. What do you expect the next toss to be? (Write either H or T.)","I am tossing a biased coin (which gives heads 3 times for every 4 tosses, meaning p(H)=3/4) 8 times. The first 7 tosses result in Heads, Heads, Heads, Tails, Heads, Heads, Heads, respectively. What do you expect the next toss to be? (Write either H or T.)","You are tossing a fair coin 8 times. What do you expect the outcome sequence of Heads and Tails to be? (Write comma separated H and T, eg., H,H,T,H,T,T,H,T)","You are tossing a fair coin 8 times. What do you expect the outcome sequence of Heads and Tails to be? (Write comma separated H and T, eg., H,H,T,H,T,T,H,T.)","On a planet like earth in a galaxy far far away, a behavioral scientist in a small town believes that the people of the town love chocolates a lot. He decides to test this hypothesis by conducting a research with 20 participants and finds that 92% of these participants love chocolates. You are skeptical of the hypothesis and wish to replicate this study with a group of 15 other participants, chosen randomly from the population. Would you accept the first research if you find that out of your sample, 67% of the participants love chocolates?","Two people are in a casino and decide that if one of them throws two 4’s, they will get married and if they throw a 5 and a 3, they won’t get married. Do you expect them to come back from Vegas married or unmarried?"
+12/6/2020 15:57:05,No,T,H,T,"H,H,T,H,H,T,T,H","T,T,H,T,H,H,H,T",Yes,Married
+12/6/2020 15:59:51,Yes,T,H,H,"H, T, H, H, T, H, T, H","T, H, H, T, T, H, H, T",No,Unmarried
+12/6/2020 16:02:26,Yes,T,H,H,"H,H,T,H,T,T,H,H","H,T,H,H,H,T,H,T",Yes,Can't Say
+12/6/2020 16:02:37,No,T,H,H,"H, T, H T, H, T, H, T","H, T, H T, H, T, H, T",No,Unmarried
+12/6/2020 16:03:46,Yes,T,H,T,"H,T,T,H,H,H,T,T","T,T,H,T,H,H,T,H",No,Can't Say
+12/6/2020 16:07:22,Yes,T,H,T,"H,H,T,H,T,T,H,T","T,H,T,H,T,T,H,H",No,Unmarried
+12/6/2020 16:07:44,Yes,T,H,T,"H,T,H,T,H,T,H,T","H,T,H,T,H,T,H,T",Yes,Unmarried
+12/6/2020 16:08:15,Yes,T,H,T,"H,H,T,H,H,H,T,T","T,H,H,T,H,H,T,T",No,Can't Say
+12/6/2020 16:08:57,Yes,H,T,H,"H,T,H,T,H,T,H,T","T,H,T,H,T,T,H,H",No,Unmarried
+12/6/2020 16:10:55,Yes,T,H,H,"H,T,T,H,T,H,T,H","H,T,T,T,H,H,T,H",No,Can't Say
+12/6/2020 16:11:35,Yes,T,H,H,"H,T,H,T,T,T,T,H","H,T,H,T,H,T,H,T",No,Unmarried
+12/6/2020 16:12:14,Yes,T,T,T,"H,T,H,T,T,T,H,H","T,T,H,H,H,T,H,T",No,Can't Say
+12/6/2020 16:12:59,Yes,T,H,H,"H,T,H,T,T,H,H,T","T,T,H,T,H,H,T,H",No,Can't Say
+12/6/2020 16:14:32,No,H,H,H,"H,H,T,H,T,H,H,H","H,T,T,T,H,T,H,H",No,Can't Say
+12/6/2020 16:14:48,Yes,T,H,H,"H,T,H,T,H,H,T,T","T,H,T,H,T,H,H,T",No,Can't Say
+12/6/2020 16:15:57,No,T,H,T,"H,T,H,T,H,T,H,T","T,H,T,H,T,H,T,H",No,Unmarried
+12/6/2020 16:16:56,Yes,T,H,T,"H,H,T,H,T,H,H,T","T,H,T,H,T,H,T,T",No,Can't Say
+12/6/2020 16:17:38,No,H,T,H,"H,T,H,T,H,T,H,T","T,T,T,H,H,H,T,H",No,Can't Say
+12/6/2020 16:18:15,No,T,H,H,"H,T,H,T,H,T,T,H","T,T,T,H,T,H,H,H",No,Can't Say
+12/6/2020 16:18:45,Yes,T,H,H,"H,T,H,T,T,H,H,T","T,T,H,T,H,H,T,H",No,Can't Say
+12/6/2020 16:19:59,Yes,T,H,T,"H,T,H,T,H,T,H,T","T,T,T,T,H,H,H,H",No,Unmarried
+12/6/2020 16:20:36,Yes,T,H,H,"H,H,T,H,T,T,T,H","H,T,T,T,T,H,H,H",No,Can't Say
+12/6/2020 16:21:20,No,T,H,H,"H,T,T,H,T,T,H,H","T,H,T,H,H,T,H,T",No,Unmarried
+12/6/2020 16:21:59,Yes,T,H,H,"H,T,H,T,H,H,T,T","T,H,H,H,T,T,H,T",No,Can't Say
+12/6/2020 16:22:27,Yes,T,H,H,"H,T,H,T,H,H,T,T","T,H,T,H,T,T,H,H",No,Unmarried
+12/6/2020 16:23:54,Yes,H,H,T,"H,T,H,T,H,T,H,T","H,T,H,T,H,T,H,T",No,Unmarried
